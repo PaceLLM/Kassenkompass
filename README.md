@@ -42,8 +42,9 @@ Die Kamera öffnet auf Knopfdruck. Nach der Aufnahme können die erkannten Angab
 
 Farben machen Kategorien im Verlauf unterscheidbar. Die Belegliste ermöglicht Änderungen und das Löschen von Einträgen.
 
-<img src="screenshots/ausgabenverlauf.png" alt="Ausgabenverlauf nach Kategorien" width="300"> <img src="screenshots/belege.png" alt="Nach Kategorien filterbare Belegliste" width="300">
+<img src="screenshots/ausgabenverlauf.png" ❍ alt="Ausgabenverlauf nach Kategorien" width="300"> <img ❍ src="screenshots/belege.png" ❍ alt="Nach Kategorien filterbare Belegliste" width="300">
 
+Hier sehen wir den Bildschirm im Querformt und erhalten die Ausgaben als Tortendiagramm
 <img src="screenshots/kategorien.png" alt="Kreisdiagramm zur Verteilung der Ausgaben" width="700">
 
 Die Screenshots zeigen unterschiedliche Ansichten und Aufnahmestände der App.
