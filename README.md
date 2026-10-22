@@ -50,7 +50,7 @@ Die Screenshots zeigen unterschiedliche Ansichten und Aufnahmestände der App.
 
 ## Entwickelt mit KI – gelernt durch Testen
 
-Ich habe Kassenkompass mit Unterstützung von **ChatGPT und Codex** entwickelt. Ich habe Funktionen beschrieben, Vorschläge ausprobiert und die Ergebnisse auf meinem iPhone überprüft. Xcode wurde für den iOS-Build und die Installation verwendet; die App basiert auf React Native und Expo.
+Ich habe Kassenkompass mit Unterstützung von **ChatGPT** entwickelt. Ich habe Funktionen beschrieben, Vorschläge ausprobiert und die Ergebnisse auf meinem iPhone überprüft. Xcode wurde für den iOS-Build und die Installation verwendet; die App basiert auf React Native und Expo.
 
 Die größte Herausforderung war, aus KI-generierten Vorschlägen eine funktionierende App zu machen:
 
@@ -61,8 +61,6 @@ Die größte Herausforderung war, aus KI-generierten Vorschlägen eine funktioni
 | Xcode-Build und Installation scheiterten zeitweise | Abhängigkeiten, der richtige Workspace, Dateizugriffsrechte und Apple-Signierung mussten geprüft und eingerichtet werden. |
 | Ein KI-Vorschlag enthielt einen Konfigurationsfehler | Die CocoaPods-Konfiguration musste korrigiert und erneut geprüft werden. |
 | Budgetwarnungen waren zu pauschal | Überschreitungen wurden je Kategorie berechnet und die Darstellung entsprechend verfeinert. |
-
-Im Verlauf wurde auch die Anpassung an die damals als „iOS 27.01“ bezeichnete Version bearbeitet. Die dokumentierten Fehler lassen sich jedoch nicht pauschal dieser Betriebssystemversion zuordnen.
 
 **Meine wichtigste Erfahrung:** Vibe Coding hilft, Ideen umzusetzen. Testen, Fehler verstehen und Ergebnisse kritisch prüfen bleiben ein wesentlicher Teil der Entwicklung.
 
